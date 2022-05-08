@@ -2,3 +2,5 @@
 1.monkey
 2.zebra
 3.elephant
+4.loin
+5.panda
